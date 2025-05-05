@@ -31,6 +31,10 @@ Combine the prompt template, model, and output parser into a LangChain pipeline.
 Test the LCEL expression using multiple input values for topic and length.
 
 ### PROGRAM:
+```
+NAME: Keerthana S
+REG NO: 212222230066
+```
 ```python
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
@@ -82,7 +86,7 @@ print("Recommendation:", parsed_result)
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/f6c8a2f1-aa8b-446e-953c-a4ec0fca87c4)
+![Screenshot 2025-04-19 103955](https://github.com/user-attachments/assets/2b8d20a6-c572-4cc9-9810-f46c45232d55)
 
 
 ### RESULT:
